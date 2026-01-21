@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "🎨 What is CSS? – The magical language that brings color, design and life to websites. Learn CSS in English."
