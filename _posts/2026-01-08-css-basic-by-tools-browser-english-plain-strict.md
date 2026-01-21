@@ -2,6 +2,7 @@
 layout: post
 title: "Want to learn web design but can’t understand CSS? In this post, understand CSS basics, syntax, properties, and real examples in simple language"
 date: 2026-01-08 09:00:00 +0530
+published: false 
 thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/learn-css/image2.png
 ---
 
@@ -10,6 +11,7 @@ thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-im
 ## ⭐ (1) CSS Syntax
 
 Every CSS rule has three parts:
+```ht
 selector {  
 property: value;  
 }
